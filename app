@@ -7,3 +7,6 @@ the find command is also use to find files and directories.
 these are a way to automate task.
 script is a great way to automate your task.
 echo is also use to make changes to a file without directly being into the file.
+
+git restore allow you revert changes made to files that are in the tracking area.
+git restore . wil revert all changes made on all files in the tracking area. 
